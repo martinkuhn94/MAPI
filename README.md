@@ -36,7 +36,6 @@ The current version of the MAPI framework is under continuous development. Futur
 If you use the MAPI framework in your research, please cite the corresponding paper:
 
 
-## Contributers: 
+## Main Contributer: 
 - Karim Amri, German Research Center for Artificial Intelligence (DFKI), SDS Branch Trier, Trier, Germany
-- Joscha Grüger, University of Trier & German Research Center for Artificial Intelligence (DFKI), SDS Branch Trier, Trier, Germany
-- Martin Kuhn, German Research Center for Artificial Intelligence (DFKI), SDS Branch Trier, Trier, Germany
+
