@@ -37,6 +37,6 @@ If you use the MAPI framework in your research, please cite the corresponding pa
 
 
 ## Contributers: 
-- **Karim Amri, German Research Center for Artificial Intelligence (DFKI), SDS Branch Trier, Trier, Germany
-- **Joscha Grüger, University of Trier & German Research Center for Artificial Intelligence (DFKI), SDS Branch Trier, Trier, Germany
-- **Martin Kuhn, German Research Center for Artificial Intelligence (DFKI), SDS Branch Trier, Trier, Germany
+- Karim Amri, German Research Center for Artificial Intelligence (DFKI), SDS Branch Trier, Trier, Germany
+- Joscha Grüger, University of Trier & German Research Center for Artificial Intelligence (DFKI), SDS Branch Trier, Trier, Germany
+- Martin Kuhn, German Research Center for Artificial Intelligence (DFKI), SDS Branch Trier, Trier, Germany
