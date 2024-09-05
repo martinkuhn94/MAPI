@@ -23,9 +23,9 @@ The MAPI framework is composed of several components, each playing a crucial rol
  
 3. **API**: A RESTful API that facilitates communication between different components of the MAPI framework.
    - Repository: [API](https://gitlab.rlp.net/wi2/onkocase/restapi)
+
+4. **Database Component**: Any database such as MySQL or PostgreSQL can be used for the database component. The database can then be connected to the system via the API component.
  
-4. **Demo and Evaluation Notebooks**: Jupyter Notebooks that demonstrate and evaluate the MAPI framework's capabilities.
-   - Repository: [Demo and Evaluation](https://gitlab.rlp.net/wi2/onkocase/onkocasebackend)
  
 ## Future Work
  
