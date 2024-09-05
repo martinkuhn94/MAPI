@@ -32,7 +32,7 @@ The MAPI framework is composed of several components, each playing a crucial rol
  
 ## Future Work
  
-The current version of the MAPI framework is under continuous development. Future updates will include GitHub links for easier access and integration. We aim to make all components publicly available on GitHub soon. Please stay tuned for further updates.
+The current version of the MAPI framework is under continuous development. Future updates will make it easier to setup MAPI using the mentioned components.
  
 ## Citation
  
