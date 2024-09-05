@@ -12,17 +12,20 @@ MAPI is a framework designed to enhance Clinical Decision Support Systems (CDSS)
 - **Event Log Analysis:** Facilitates the retrieval of similar patient cases using event logs, supporting evidence-based treatment decisions.
  
 ## Components
+
+![MAPI Components](images/MAPI_diagramm.svg)
+
  
 The MAPI framework is composed of several components, each playing a crucial role in its functionality. Below are the key components along with their respective GitLab repositories:
  
 1. **XES2NEST Converter**: This tool converts XES event logs into workflow models for further analysis.
-   - Repository: [XES2NEST Converter](https://gitlab.rlp.net/wi2/onkocase/xestoworkflowconverter)
+   - Repository: [XES2NEST Converter](https://github.com/amri-amri/xes2nest)
  
 2. **CBR Component**: The core engine for case-based reasoning, enabling the retrieval of similar patient cases.
-   - Repository: [CBR Component](https://gitlab.rlp.net/wi2/onkocase/procake-extension)
+   - Repository: [CBR Component](https://github.com/amri-amri/procake-extension)
  
 3. **API**: A RESTful API that facilitates communication between different components of the MAPI framework.
-   - Repository: [API](https://gitlab.rlp.net/wi2/onkocase/restapi)
+   - Repository: [API](https://github.com/amri-amri/restapi)
 
 4. **Database Component**: Any database such as MySQL or PostgreSQL can be used for the database component. The database can then be connected to the system via the API component.
  
