@@ -13,7 +13,7 @@ MAPI is a framework designed to enhance Clinical Decision Support Systems (CDSS)
  
 ## Components
 
-![MAPI Components](images/MAPI_diagramm.svg)
+![MAPI Components](images/MAPI_diagramm.png)
 
  
 The MAPI framework is composed of several components, each playing a crucial role in its functionality. Below are the key components along with their respective GitLab repositories:
